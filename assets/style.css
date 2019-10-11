@@ -1,0 +1,59 @@
+#home{
+    height: 370px;
+    text-align: center;
+    font-size: 20 rem;
+    padding-top: 150px;
+}
+
+#nav_bar{
+    width: 24% !important;
+    border-left: 25% !important;
+    border-right: 25% !important;
+    font-style: italic;
+}
+  
+.carousel {
+    max-width: 1200px;
+    margin-top: 80px;
+    text-align: center;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.carousel-inner {
+    border: 3px solid #ebebeb;
+    padding: 15px;
+}
+
+#autorDesconhecido{
+    text-align: right;
+    font-weight: bold;
+}
+
+hr{
+    width: 80%;
+}
+
+.circle{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+#circleImg{
+  float: right;
+}
+
+.circle img{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: inherit;
+}
+
+.imagemCorpo{
+    width: 100px;
+    height: auto;
+    float: right;
+}
+
